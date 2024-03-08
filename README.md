@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StefanVar24
+- 👋 Hi, I’m @ProfitMark
 - 👀 I’m interested in plan of action
 - 🌱 I’m currently learning web 3 + AI
 - 💞️ I’m looking to collaborate on web 3 projects
